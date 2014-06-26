@@ -1,3 +1,4 @@
+define(['jquery', 'knockout'], function ($, ko) {
 /***********************************************
 * koGrid JavaScript Library
 * Authors: https://github.com/ericmbarnard/koGrid/blob/master/README.md
@@ -2235,3 +2236,4 @@ window.kg.domUtilityService = {
 };
 getWidths();
 }(window));
+});
